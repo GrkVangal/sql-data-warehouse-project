@@ -33,10 +33,11 @@ stakeholders and analytics teams.
 
 ---
 
-BI: Analytics & Reporting
+##BI: Analytics & Reporting
 (Data Analytics)
 
-Objective
+##Objective
+
 Develop SQL-based analytics to deliver detailed
 insights into:
 
@@ -48,7 +49,8 @@ business metrics, enabling strategic decision-making.
 
 ---
 
-License
+##License
+
 This project is licensed under the MIT License..You are free to use, modify, and share this
 project with proper attribution.
 
