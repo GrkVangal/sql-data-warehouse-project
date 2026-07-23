@@ -56,7 +56,7 @@ project with proper attribution.
 
 ---
 
-* About Me *
+* About Me 
 
 Hi there! I'm Athanasios Bimpikas. I study computer science and I'm interested in Data Science.
 This project serves as an attempt at sharpening my skills when it comes to project
