@@ -9,7 +9,7 @@ Designed as a portfolio project that highlights industry best practices in data 
 
 Building the Data Warehouse (Data Engineering
 
-##Obiective
+##Objective
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling
 analytical reporting and informed decision-making.
